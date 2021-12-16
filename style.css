@@ -44,6 +44,7 @@ section h1, footer h1, nav a
     font-family: Dayrom, serif;
     font-weight: normal;
     text-transform: uppercase;
+    color: red;
 }
 
 /* Header */
@@ -248,6 +249,7 @@ footer p, footer ul
 footer h1
 {
     font-size: 1.1em;
+    color: red;
 }
 
 
